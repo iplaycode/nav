@@ -5,10 +5,6 @@
     <link>https://iplaycode.github.io/nav/categories/</link>
     <description>Recent content in Categories on WebStack网址导航 Hugo主题</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    
-	<atom:link href="https://iplaycode.github.io/nav/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-CN</language><atom:link href="https://iplaycode.github.io/nav/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
